@@ -1,0 +1,5 @@
+样例来自:
+	https://www.shiyanlou.com/courses/677/labs/2202/document
+
+相关知识介绍;
+  1.共现网络简单的英文介绍;https://forec.github.io/2016/10/03/co-occurrence-structure-capture/
